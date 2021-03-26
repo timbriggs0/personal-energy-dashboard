@@ -1,0 +1,5 @@
+data/ashrae-energy-prediction/building_metadata.csv
+data/ashrae-energy-prediction/test.csv
+data/ashrae-energy-prediction/train.csv
+data/ashrae-energy-prediction/weather_test.csv
+data/ashrae-energy-prediction/weather_train.csv
